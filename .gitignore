@@ -1,0 +1,48 @@
+# Build artifacts
+**/bin/
+**/obj/
+**/out/
+
+# Visual Studio and .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.dbmdl
+*.pdb
+*.mdb
+*.opendb
+*.log
+
+# NuGet
+*.nupkg
+**/packages/
+# Uncomment if you have tasks that create this folder
+#**/packages/*
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Test result files
+TestResults/
+*.trx
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.tmp
+*.temp
+*.backup
+*.orig
+*.rej
+
+# Local Docs
+docs/

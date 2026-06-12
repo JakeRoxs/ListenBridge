@@ -1,0 +1,9 @@
+[
+  {
+    "ts": "2024-02-03T23:59:59Z",
+    "master_metadata_album_artist_name": "Extended Artist",
+    "master_metadata_track_name": "Extended Track",
+    "spotify_track_uri": "spotify:track:1234567890abcdef",
+    "ms_played": 240000
+  }
+]

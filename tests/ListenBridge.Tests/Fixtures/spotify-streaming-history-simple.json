@@ -1,0 +1,14 @@
+[
+  {
+    "endTime": "2024-01-02 13:05",
+    "artistName": "Synthetic Artist",
+    "trackName": "Synthetic Track",
+    "msPlayed": 180000
+  },
+  {
+    "endTime": "not-a-date",
+    "artistName": "Skipped Artist",
+    "trackName": "Skipped Track",
+    "msPlayed": 120000
+  }
+]
